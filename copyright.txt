@@ -1,0 +1,3 @@
+Este es el fichero copyright.txt
+Añadida segunda linea
+modificados leeme y copyright
